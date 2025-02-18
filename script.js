@@ -17,6 +17,6 @@ let num3 = 40 - 1;
 alert(`${message}${num1}-${num2}-${num3}`);
 
 // 1. creeate the dialog box for the browser by writing out the alert below the assigned variable'd numbers above
-// 2. each variable name ex: (num1,num2,num3) will be stringed together inside the alert's brackets; use ${num#} in order to call back their combo formulas; the results will appear in the browser
-// 3. surround the string variables with single backslash tick to activate what's written inside of the parathenses
+// 2. each variable name ex: (num1,num2,num3) will be stringed together inside the alert's parantheses; use ${num#} in order to call back their combo formulas; the results will appear in the browser
+// 3. surround the string variables with single backslash ticks to activate what's written inside of the parathenses
 // 4. add the message into the alert so it appears after "here is the secret combination:"
